@@ -1,0 +1,24 @@
+{
+  "name": "ToDosList",
+  "version": "1.0.0",
+  "description": "Simple todo list with cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server www --files www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoperaldini/ToDosList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanoperaldini/ToDosList/issues"
+  },
+  "homepage": "https://github.com/stefanoperaldini/ToDosList#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
